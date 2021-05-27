@@ -1,2 +1,5 @@
 # changelog
-basic online change logger
+Bored of the way your job sub optimally logs changes to their in house development projects? If you have found that as soon as you are working on an in house project for your company rather than on a client facing project that the logging of tickets and the quality of the QA drops dramatically then why not have some fun and develop your own little ticket tracker.
+Something light weight for use within a small team, linking to your internal servers without the need to shell out for the same level of ticket and change management that you use for larger client projects.
+Why not have a centralised area on one of the company servers where you can keep you in house development logs? Accessible from within the company that allows your support staff to easily access and track changes they have requested while keeping historic track of your own software.
+A fun little project to build a web page that links to an SQL server pulls up information you and others in the company might need to see on a semi regular basis without even really realising that it can be quickly and easily displayed.
